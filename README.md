@@ -1,1 +1,1 @@
-http://github.artgmari.io/curriculo
+https://artgmari.github.io/curriculo/
