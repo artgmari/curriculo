@@ -414,7 +414,7 @@ section {
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #728394;
+  color: #00264d;
 }
 
 .about .content ul {
@@ -693,8 +693,8 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #ffffff;
-  font-size: 14px;
+  color: #5a00cf;
+  font-size: 20px;
   text-transform: uppercase;
   padding: 0;
   margin: 0;
@@ -1174,7 +1174,7 @@ section {
 #footer {
   background: #f7f8f9;
   color: #45505b;
-  font-size: 14px;
+  font-size: 19px;
   text-align: center;
   padding: 30px 0;
 }
